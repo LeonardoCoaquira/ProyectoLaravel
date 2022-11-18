@@ -38,7 +38,7 @@
                   </div>
 
                   <div class="d-flex align-items-center justify-content-center pb-4">
-                    <p class="mb-0 me-2">Don't have an account?</p>
+                    <p class="mb-0 me-2">Don't hasve an account?</p>
                     <button type="button" class="btn btn-outline-danger">Create new</button>
                   </div>
 
@@ -48,10 +48,10 @@
             </div>
             <div style = " background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);" class="col-lg-6 d-flex align-items-center gradient-custom-2">
               <div style="color:white;" class="text- px-3 py-4 p-md-5 mx-md-4">
-                <h4 class="mb-4"> <b>We are more than just a company</b></h4>
-                <p class="small mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                <h4 class="mb-4"> <b>Lotus - "ven vamos al psicologo"</b></h4>
+                <p class="small mb-0">Si leer es uno de sus grandes intereses
+                 o está en busca de mejorar su hábito a la lectura, estas páginas le ayudarán porque 
+                 pondrán a su disposición miles de opciones en la palma de su mano.</p>
               </div>
             </div>
           </div>
