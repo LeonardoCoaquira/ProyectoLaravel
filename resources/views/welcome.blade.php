@@ -50,8 +50,8 @@
               <div class="text-white px-3 py-4 p-md-5 mx-md-4">
                 <h4 class="mb-4">Lotus - "ven vamos al psicologo"</h4>
                 <p style="font-size: 1em;" class="small mb-0">Si leer es uno de sus grandes intereses
-                 o está en busca de mejorar su hábito a la lectura, estas páginas le ayudarán porque 
-                 pondrán a su disposición miles de opciones en la palma de su mano</p>
+                 o está en busca de mejorar su hábito a la lectura, esta página le ayudará porque 
+                 pondrán a su disposición miles de opciones en la palma de su mano.</p>
               </div>
             </div>
           </div>

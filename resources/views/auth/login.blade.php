@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
+
 <section class="h-100 gradient-form" style="background-color: #eee;">
   <div class="container py-5 h-100">
     <div class="row d-flex justify-content-center align-items-center h-100">
@@ -30,17 +31,14 @@
                   </div>
 
                   <div style= "background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);" class="text-center pt-1 mb-5 pb-1">
-                    <button style= "color:white; background-color: transparent; border:none" type="button" href="home.blade.php"><b>Log
+                    <button style= "color:white; background-color: transparent; border:none" type="button" href="/resources/views/home.blade.php"><b>Log
                       in</b></button>
                   </div>
                   <div class=text-center pt-1 mb-5 pb-1>
-                    <a class="text-muted" href="#!">Forgot password?</a>
+                    <a class="text-muted" href="./password/reset">Forgot password?</a>
                   </div>
 
-                  <div class="d-flex align-items-center justify-content-center pb-4">
-                    <p class="mb-0 me-2">Don't hasve an account?</p>
-                    <button type="button" class="btn btn-outline-danger">Create new</button>
-                  </div>
+                  
 
                 </form>
 
@@ -50,7 +48,7 @@
               <div style="color:white;" class="text- px-3 py-4 p-md-5 mx-md-4">
                 <h4 class="mb-4"> <b>Lotus - "ven vamos al psicologo"</b></h4>
                 <p class="small mb-0">Si leer es uno de sus grandes intereses
-                 o está en busca de mejorar su hábito a la lectura, estas páginas le ayudarán porque 
+                 o está en busca de mejorar su hábito a la lectura, esta página le ayudará porque 
                  pondrán a su disposición miles de opciones en la palma de su mano.</p>
               </div>
             </div>
