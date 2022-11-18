@@ -18,7 +18,6 @@ return new class extends Migration
             $table->string('book_title');
             $table->string('request_content');
             $table->string('author');
-            $table->id('date_published');
             $table->unsignedBigInteger('user_id');
             $table->foreign('user_id')->references('id')->on('users');
             $table->timestamps();
