@@ -30,15 +30,14 @@
                        placeholder="Password" />
                   </div>
 
-                  <div style= "background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);" class="text-center pt-1 mb-5 pb-1">
-                    <button style= "color:white; background-color: transparent; border:none" type="button" href="/resources/views/home.blade.php"><b>Log
-                      in</b></button>
+                  <div class="form-control" style= "background: linear-gradient(to right, #ee7724, #d8363a, #dd3675, #b44593);" class="text-center pt-1 mb-5 pb-1">
+                    <button class="form-control" style= "color:white; background-color: transparent; border:none" type="button" href="/resources/views/home.blade.php"><b>LOG
+                      IN</b></button>
                   </div>
+                  <br>
                   <div class=text-center pt-1 mb-5 pb-1>
                     <a class="text-muted" href="./password/reset">Forgot password?</a>
                   </div>
-
-                  
 
                 </form>
 
