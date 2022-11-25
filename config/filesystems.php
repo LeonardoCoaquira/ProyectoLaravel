@@ -35,6 +35,18 @@ return [
             'root' => storage_path('app'),
             'throw' => false,
         ],
+        
+        'books/book' => [
+            'driver' => 'local',
+            'root' => storage_path('app/books/book'),
+            'throw' => false,
+        ],
+
+        'books/cover' => [
+            'driver' => 'local',
+            'root' => storage_path('app/books/cover'),
+            'throw' => false,
+        ],
 
         'public' => [
             'driver' => 'local',
