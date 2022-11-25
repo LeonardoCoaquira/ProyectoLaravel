@@ -54,7 +54,7 @@
                         <img height="200" src="{{ asset("/books/cover/$book->routeCover") }}" alt="Imagen">
                         <div class="card-body">
                             <p class="card-text">
-                                <a target="_blank" class="stretched-link text-danger" href="{{ asset("/books/book/$book->routeBook") }}">PDF</a>
+                                <a target="_blank" class="stretched-link text-danger" href="{{ asset("/books/book/$book->routeBook") }}">Descargar PDF</a>
                             </p>
                             <p class="card-text">{{$book->description}}</p>
                             <div class="d-flex justify-content-between align-items-center">

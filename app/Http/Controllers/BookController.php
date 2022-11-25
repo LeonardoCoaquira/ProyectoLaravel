@@ -22,8 +22,7 @@ class BookController extends Controller
 
     public function showBook(string $routeBook)
     {
-        $file = Storage::disk('books/book')->get($routeBook);
-        return $file;
+        return Storage::disk('books/book')->download($routeBook);
     }
 
     public function getCover(string $routeCover)
