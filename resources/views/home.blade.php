@@ -26,7 +26,7 @@
                 <div class="col">
                     <div class="card shadow-sm" >
                         <h5 class="card-title">Subido por {{$book->User->name}}</h5>
-                        <img height="200" src="{{ asset("/books/cover/{{$book->routeCover}}") }}" alt="Imagen">
+                        <img height="200" src="{{ asset("/books/cover/$book->routeCover") }}" alt="Imagen">
                         <div class="card-body">
                             <p class="card-text">
                                 <a target="_blank" class="stretched-link text-danger" href="{{ asset("/books/book/$book->routeBook") }}">Descargar PDF</a>
